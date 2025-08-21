@@ -9,3 +9,16 @@ Ele demonstra conceitos fundamentais da linguagem Java:
 - ✅ Destruição de objetos pelo Garbage Collector
 
 ## 🗂️ Estrutura de pastas
+
+```css
+projeto-ocp21/
+ └── src/
+      └── main/
+           └── java/
+                └── br/
+                     └── com/
+                          └── kleber/
+                               ├── Main.java
+                               └── Usuario.java
+
+```
