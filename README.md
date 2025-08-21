@@ -22,3 +22,5 @@ projeto-ocp21/
                                └── Usuario.java
 
 ```
+
+## ⚙️ Tecnologias
