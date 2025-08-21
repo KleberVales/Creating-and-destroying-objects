@@ -24,3 +24,5 @@ projeto-ocp21/
 ```
 
 ## ⚙️ Tecnologias
+- Java 21
+-  Estrutura simples (sem Maven/Gradle, apenas javac e java)
