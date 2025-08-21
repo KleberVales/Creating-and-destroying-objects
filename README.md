@@ -28,3 +28,11 @@ projeto-ocp21/
 -  Estrutura simples (sem Maven/Gradle, apenas javac e java)
 
 ## 📖 Exemplo de saída
+
+```bash
+ID: 1
+Nome: Kleber
+Usuário{id=1, nome='Kleber'}
+Fim do programa!
+Objeto Usuario com id=1 foi destruído pelo Garbage Collector.
+```
