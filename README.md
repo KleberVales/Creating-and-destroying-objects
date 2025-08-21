@@ -7,3 +7,5 @@ Ele demonstra conceitos fundamentais da linguagem Java:
 - ✅ Criação de objetos
 - ✅ Utilização de tipos primitivos e de referência
 - ✅ Destruição de objetos pelo Garbage Collector
+
+## 🗂️ Estrutura de pastas
